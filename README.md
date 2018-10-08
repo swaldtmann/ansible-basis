@@ -9,4 +9,4 @@
 ## Vault file
 
 
-[vault.yml](./inventories/group_vars/all/vault.yml)
+[vault.yml](./blob/master/inventories/test/group_vars/all/vault.yml)
