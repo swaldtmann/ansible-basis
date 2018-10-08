@@ -9,4 +9,4 @@
 ## Vault file
 
 
-<inventories/group_vars/all/vault.yml> 
+<./inventories/group_vars/all/vault.yml> 
