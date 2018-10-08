@@ -1,5 +1,9 @@
 # Grundlagen Git 
 
+## Grundlagenkapitel im Web
+
+<https://git-scm.com/book/de/v2/Los-geht%E2%80%99s-Git-Grundlagen>
+
 ## Globale Variablen definieren
 ```bash
 git config --global user.name "Stephan Waldtmann"
