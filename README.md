@@ -9,15 +9,15 @@
 - roles - Ordner für Ansible Rollen
 
 ## Ansible Konfigurations-Datei
-[ansible.cfg](ansible.cfg)
+- [ansible.cfg](ansible.cfg)
 
 ## Diverse Runscripts im lokalen Verzeichnis
-[git_setup.sh](git_setup.sh)
-[run.sh](run.sh)
+- [git_setup.sh](git_setup.sh)
+- [run.sh](run.sh)
 
 ## Vault file
-[vault.yml](inventories/test/group_vars/all/vault.yml)
+- [vault.yml](inventories/test/group_vars/all/vault.yml)
 
 ## Vault Kennwort Datei
-[vault-password-file](keep/vault-password-file)
+- [vault-password-file](keep/vault-password-file)
 
