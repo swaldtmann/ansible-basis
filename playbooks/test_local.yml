@@ -1,0 +1,7 @@
+---
+- hosts: local
+  connection: local
+
+  tasks:
+    - debug: var=web_user
+    - debug: var=web_group

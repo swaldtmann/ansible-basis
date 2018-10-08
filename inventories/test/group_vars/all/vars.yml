@@ -1,0 +1,4 @@
+---
+web_group: "{{ vault_web_group }}"
+web_user: "{{ vault_web_user }}"
+
